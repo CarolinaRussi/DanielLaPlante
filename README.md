@@ -1,4 +1,4 @@
-# DanielLaPlante
+# Daniel LaPlante
 Canal Colecionador de Ossos
 
 # Fontes e Referências da matéria:
